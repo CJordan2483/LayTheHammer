@@ -21,8 +21,8 @@ nav a {
 
 .hero-logo {
   width: 100%;
-  max-width: 350px;
-  height: auto;
+  max-width: 200px;
+  height: 100%;
   display: block;
   margin: 20px auto;
 }
