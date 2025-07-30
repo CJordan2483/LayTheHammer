@@ -20,8 +20,9 @@ nav a {
 }
 
 .hero-logo {
-  width: 100%;
-  max-width: 900px;
+  width: auto;
+  max-width: 100%;
+  height: auto;
   display: block;
   margin: 20px auto 0 auto;
 }
