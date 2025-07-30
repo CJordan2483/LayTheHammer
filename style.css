@@ -18,3 +18,10 @@ nav a {
   margin: 0 0.5em;
   text-decoration: none;
 }
+
+.logo-banner {
+  display: block;
+  margin: 20px auto;
+  max-width: 90%;
+  height: auto;
+}
