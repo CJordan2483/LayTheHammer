@@ -19,9 +19,9 @@ nav a {
   text-decoration: none;
 }
 
-.logo-banner {
+.hero-logo {
+  width: 100%;
+  max-width: 900px;
   display: block;
-  margin: 20px auto;
-  max-width: 90%;
-  height: auto;
+  margin: 20px auto 0 auto;
 }
