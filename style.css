@@ -217,3 +217,20 @@ footer {
 .btn.small:hover {
   background: #1e2a4a;
 }
+
+/* Custom (Gold) Button */
+.btn.small.custom {
+  background: #facc15;
+  color: #0b1020;
+  font-weight: 700;
+  border: none;
+  padding: 10px 20px;
+  min-width: 110px;
+  box-shadow: 0 0 10px #facc1533;
+  transition: all 0.3s ease;
+}
+
+.btn.small.custom:hover {
+  background: #fde047;
+  box-shadow: 0 0 15px #facc1555;
+}
