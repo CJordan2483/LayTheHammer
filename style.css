@@ -234,3 +234,9 @@ footer {
   background: #fde047;
   box-shadow: 0 0 15px #facc1555;
 }
+
+.construction-banner .btn.primary {
+  display: block;
+  margin: 1.5em auto;
+  text-align: center;
+}
